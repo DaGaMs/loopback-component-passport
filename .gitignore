@@ -26,3 +26,4 @@ node_modules
 !intl/
 intl/*
 !intl/en/
+*.sublime-*
